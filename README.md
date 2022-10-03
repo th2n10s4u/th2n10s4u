@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Tim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h4 align="center">Here is my <a href="www.timh.codes" target="_blank" rel="noopener">Website</a> and my <a href="https://www.linkedin.com/in/timhughesdev/" rel="noopener" target="_blank"> LinkedIn </a> </h4>
+<h4 align="center">Here is my <a href="https://www.timh.codes" target="_blank" rel="noopener">Website</a> and my <a href="https://www.linkedin.com/in/timhughesdev/" rel="noopener" target="_blank"> LinkedIn </a> </h4>
   
 - 🔭 I’m actively searching for employment!
 - 🌱 I’m always learning and growing as a developer!
