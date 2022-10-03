@@ -4,13 +4,13 @@
 
 <h4 align="center">Here is my <a href="www.timh.codes" target="_blank" rel="noopener">Website</a> and my <a href="https://www.linkedin.com/in/timhughesdev/" rel="noopener" target="_blank"> LinkedIn </a> </h4>
   
-- 🔭 I’m actively searching for employment 
-- 🌱 I’m always learning and growing as a developer
-- 🔍 I'm currently focusing on {useState} and REST API
-- 👯 I’m looking to collaborate on ReactJS or similar projects
-- 💬 Ask me about
-- 📫 Reach me at the links above
-- ⚡ Fun fact: The first computer "bug" was a moth 
+- 🔭 I’m actively searching for employment!
+- 🌱 I’m always learning and growing as a developer!
+- 🔍 I'm currently focusing on {useState} and REST API!
+- 👯 I’m looking to collaborate on ReactJS or similar projects!
+- 💬 Ask me about Web Development!
+- 📫 Reach me at the links above!
+- ⚡ Fun fact: The first computer "bug" was a moth!
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=th2n10s4u&&show_icons=true&title_color=1DF6F7FF&icon_color=1DF6F7FF&text_color=daf7dc&bg_color=151515">
