@@ -13,6 +13,6 @@
 - ⚡ Fun fact: The first computer "bug" was a moth!
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=th2n10s4u&&show_icons=true&title_color=1DF6F7FF&icon_color=1DF6F7FF&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=timhughesdev&&show_icons=true&title_color=1DF6F7FF&icon_color=1DF6F7FF&text_color=daf7dc&bg_color=151515">
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=th2n10s4u&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=timhughesdev&layout=compact&theme=radical" />
