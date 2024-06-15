@@ -4,11 +4,11 @@
 
 <h4 align="center">Here is my <a href="https://www.timh.codes" target="_blank" rel="noopener">Website</a> and my <a href="https://www.linkedin.com/in/timhughesdev/" rel="noopener" target="_blank"> LinkedIn </a> </h4>
   
-- 🔭 I’m actively searching for employment!
+- 🔭 The sky is the limit!
 - 🌱 I’m always learning and growing as a developer!
-- 🔍 I'm currently focusing on {useState} and REST API!
+- 🔍 I'm currently focusing on React, React-Native, AI, Data Ingestion and ETL!
 - 👯 I’m looking to collaborate on ReactJS or similar projects!
-- 💬 Ask me about Web Development!
+- 💬 Ask me about Web and App Development!
 - 📫 Reach me at the links above!
 - ⚡ Fun fact: The first computer "bug" was a moth!
 
